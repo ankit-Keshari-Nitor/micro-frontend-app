@@ -3,3 +3,10 @@ Micro-frontend designs break down a front-end application into little, semi-inde
 
 ## Setting up project
 This project contains two micro frontends, The <b>Main</b> will be our container for all the micro apps, and <b>common-components-lib</b> will contain common components like Header, Footer, etc.
+
+## Command
+<b>npx create-mf-app</b>
+
+My <b>Main</b> app will run on http://localhost:3000/
+
+My <b>common-components-lib</b> app will run on http://localhost:3001/
